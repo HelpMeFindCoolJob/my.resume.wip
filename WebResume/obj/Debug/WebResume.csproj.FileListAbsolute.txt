@@ -1,0 +1,56 @@
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\WebResume.dll.config
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\WebResume.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\WebResume.pdb
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Helpers.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Mvc.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Razor.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Webpages.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Webpages.Razor.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Razor.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Webpages.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Webpages.Razor.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Helpers.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\System.Web.Mvc.xml
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\obj\Debug\WebResume.csprojResolveAssemblyReference.cache
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\obj\Debug\WebResume.csproj.CoreCompileInputs.cache
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\obj\Debug\WebResume.dll
+C:\Users\Stahlhammer\Documents\C# Projects\WebResume\WebResume\obj\Debug\WebResume.pdb
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\WebResume.dll.config
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\WebResume.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\WebResume.pdb
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Helpers.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Mvc.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Razor.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Webpages.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Webpages.Razor.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Razor.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Webpages.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Webpages.Razor.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Helpers.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\System.Web.Mvc.xml
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\obj\Debug\WebResume.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\obj\Debug\WebResume.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\obj\Debug\WebResume.dll
+C:\Users\Администратор\Documents\GIT\WebResume\WebResume\obj\Debug\WebResume.pdb
